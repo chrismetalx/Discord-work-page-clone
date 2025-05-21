@@ -9,9 +9,9 @@ The official Discord work page has been modified, so it has changed visually sin
 
 ### :pushpin: Links<br/>
 ***
->:link: Page link: https://discord.com/careers<br/>
+:link: Page link: https://discord.com/careers<br/>
 
->:link: Link to the project:   https://chrismetalx.github.io/Discord-work-page-clone/<br/>
+:link: Link to the project:   https://chrismetalx.github.io/Discord-work-page-clone/<br/>
 
 ***
 **This project was carried out for learning purposes.**
